@@ -1,0 +1,20 @@
+GALUMBRA SUPREME — REQUIRED ROOT STRUCTURE
+
+index.html
+package.json
+wrangler.jsonc
+README.md
+.env.example
+src/
+  main.jsx
+  App.jsx
+  style.css
+  supabase.js
+supabase/
+  schema.sql
+
+IMPORTANT:
+- The `src` folder is a real folder and must be lowercase.
+- `main.jsx` belongs inside `src`.
+- Keep `index.html` and `package.json` at the repository root.
+- Do not upload only the ZIP archive to GitHub; extract it and upload its contents.
