@@ -1,0 +1,19 @@
+GALUMBRA SUPREME — COMPLETE PROJECT
+
+IMPORTANT:
+This ZIP contains the website source code in its original folder structure.
+Do not rename or move the files inside the project.
+
+MAIN FILES:
+- index.html
+- package.json
+- src/ (website application code)
+- supabase/ (database schema)
+- README.md
+
+PHONE NOTE:
+GitHub's mobile website may not preserve folder uploads when selecting files one by one.
+Do not upload only the ZIP and expect GitHub to unpack it. The ZIP is a container, not a deployed website.
+If GitHub does not allow selecting folders, use a computer or a browser-based development environment to upload the complete extracted folder structure.
+
+This is source code, not a live website. Hosting and Supabase setup are still required.
